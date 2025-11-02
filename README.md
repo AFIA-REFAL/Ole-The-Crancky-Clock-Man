@@ -1,5 +1,5 @@
 Ole The Cranky Clock Man ⏰
-
+    
 ## 🧩 Project Description
 Ole The Cranky Clock Man is a simple Python-based scheduling app.  
 It helps manage and trigger time-based actions or reminders using a clock interface.  
